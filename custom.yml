@@ -6,7 +6,18 @@ feeds:
     branch: master
 packages:
   - luci-app-mwan3
-
+  - luci-app-adguardhome
+  - luci-app-dockerman
+  - luci-app-unblockmusic
+  - luci-app-sqm Qos
+  - luci-app-speedtest-web
+  - luci-app-hd-idle
+  - luci-app-vsftpd
+  - luci-app-statistics collectd
+  - luci-app-serverchan
+  - luci-app-ramfre
+  - luci-app-mwan3
+  - luci-app-cpulimit
 
 
 diffconfig: |
